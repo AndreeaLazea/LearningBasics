@@ -1,4 +1,4 @@
-# JAVA BASICS FOR INTERVIEWS
+# BASICS FOR INTERVIEWS
 I created a list of essential basics for
 interviews when applying for a Java Developer position.
 

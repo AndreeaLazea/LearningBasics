@@ -53,7 +53,6 @@ public class LearnDataTypes {
         array[0] = 33;
 
 
-
         //2.2 LIST
         // = can have different data types, in python for ex
         // = dynamic size, can grow or shrink

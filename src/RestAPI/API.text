@@ -1,0 +1,12 @@
+Calling an API is just like accessing a web page.
+When you enter a website => you make a request to it and the page that is
+being shown to you is the actual response
+
+
+Just like that, when you make a request to an api, you get a response back
+that is either HTML( a web page) or plain text or JSON or XML or any other format.
+
+When it comes to calling an api, you have a lot of choices as tools:
+- Postman, the one I prefer.
+- Insomnia
+- Curl, comes installed by default for windows >= 10 and MacOS

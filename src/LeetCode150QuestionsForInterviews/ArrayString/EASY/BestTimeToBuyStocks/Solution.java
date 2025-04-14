@@ -1,4 +1,4 @@
-package LeetCode150QuestionsForInterviews.ArrayString.BestTimeToBuyStocks;
+package LeetCode150QuestionsForInterviews.ArrayString.EASY.BestTimeToBuyStocks;
 /*
 You are given an array prices where prices[i] is the price of a given stock on the ith day.
 

@@ -1,4 +1,4 @@
-package LeetCode150QuestionsForInterviews.ArrayString.RemoveDuplicatesFromSortedArrayII;
+package LeetCode150QuestionsForInterviews.ArrayString.MEDIUM.RemoveDuplicatesFromSortedArrayII;
 /*
 Given an integer array nums sorted in non-decreasing order, remove some duplicates in-place
 such that each unique element appears at most twice.

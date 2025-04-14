@@ -1,4 +1,4 @@
-package LeetCode150QuestionsForInterviews.ArrayString.MajorityElement;
+package LeetCode150QuestionsForInterviews.ArrayString.EASY.MajorityElement;
 /*
 Given an array nums of size n, return the majority element.
 

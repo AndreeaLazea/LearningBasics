@@ -1,4 +1,4 @@
-package LeetCode150QuestionsForInterviews.ArrayString.JumpGame;
+package LeetCode150QuestionsForInterviews.ArrayString.MEDIUM.JumpGameREVISIT;
 /*
 You are given an integer array nums. You are initially positioned at the array's first index, and each element in the array represents your maximum jump length at that position.
 
